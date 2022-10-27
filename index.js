@@ -35,6 +35,7 @@ app.get('/course/:id', (req, res)=>{
     res.send(selectedCourse);
 })
 
+
 // for checkout
 app.get('/checkout/:id', (req, res)=>{
     const id = req.params.id;
