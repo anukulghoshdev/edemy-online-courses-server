@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Computer Science"
+    },
+    {
+      "id": "02",
+      "name": "Web Development"
+    },
+    {
+      "id": "03",
+      "name": "It & Software"
+    },
+    {
+      "id": "04",
+      "name": "Business Studies"
+    },
+    {
+      "id": "05",
+      "name": "Data Science"
+    },
+    {
+      "id": "06",
+      "name": "Graphics Design"
+    },
+    {
+      "id": "07",
+      "name": "Self Development"
+    },
+    {
+      "id": "08",
+      "name": "All Courses"
+    }
+  ]
